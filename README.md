@@ -7,3 +7,4 @@
 ### - Lecture 2.3: NGS giúp định danh tác nhân và đồng tác gây bệnh khi phương pháp phân lập thất bại
 ### - Lecture 2.4: Cảnh báo sớm, Giám sát dịch tễ và kháng thuốc trong Thú Y
 ## Lecture 3: 
+### - CoLab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsSC4lHfmJBEFbPWHq5wmZyhVfzgmE6p?usp=sharing)
