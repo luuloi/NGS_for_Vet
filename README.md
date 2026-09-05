@@ -1,6 +1,7 @@
 # Ứng Dụng Giải Trình Tự Thế Hệ Mới Trong Thú Y
 #
 ## Lecture 1: Giới thiệu công nghệ giải trình tự thế hệ mới (NGS) và các ứng dụng
+### [PDF](Lecture_01/Lecture_01.pdf)
 ## Lecture 2:
 ### - Lecture 2.1: Từ tiến hóa di truyền in vitro đến kháng thuốc Flucytosine: Giải mã thách thức trong điều trị Candida auris
 ### - Lecture 2.2: NGS giúp khám phá cơ chế, tiềm năng sinh học và cơ sở chọn ứng viên đối kháng
