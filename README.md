@@ -10,3 +10,5 @@
 ## Lecture 3: Thực hành những thao tác cơ bản trên dữ liệu thô NGS
 ### - Google Colab Cơ bản: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18pCXU8om8vvYoC10Cwb7x4ml0ihnknXb?usp=sharing)
 ### - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsSC4lHfmJBEFbPWHq5wmZyhVfzgmE6p?usp=sharing)
+## Các bạn có thể thao khảo nhiều bài giảng về phân tích toàn bộ bộ gen và hệ khuẩn chí chi tiết tại
+### - [YOUTUBE](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s)
